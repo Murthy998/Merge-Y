@@ -1,1 +1,2 @@
 This is bat
+It is used for batting in the cricket
